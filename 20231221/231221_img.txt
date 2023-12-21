@@ -1,0 +1,108 @@
+RainMap has not been update cumulate rainfull for 21, using previous hours data
+E_image Exception:404
+
+採用昨日簡報
+round_Satellite.png success  
+round_Satellite.png, 7016579, 1203425, 4056961, 4084854 
+
+round_SWM.png success  
+round_SWM.png, 1115999, 1203424, 5604180, 4084855 
+
+E_06_image.png success  
+E_06_image.png, 7066626, 651832, 3835754, 3835754 
+
+E_yday_image.png success  
+E_yday_image.png, 1070948, 919996, 3835754, 3545806 
+
+cropped_6_06QPF.png success  
+cropped_6_06QPF.png, 1220392, 1652148, 2314523, 3337219 
+
+cropped_6_12QPF.png success  
+cropped_6_12QPF.png, 3661828, 1641360, 2329488, 3358797 
+
+cropped_6_18QPF.png success  
+cropped_6_18QPF.png, 6100074, 1637706, 2326376, 3354310 
+
+cropped_6_24QPF.png success  
+cropped_6_24QPF.png, 8534802, 1611349, 2354756, 3395229 
+
+簡報儲存成功
+採用今日簡報
+round_Satellite.png success  
+round_Satellite.png, 7016579, 1203425, 4056961, 4084854 
+
+round_SWM.png success  
+round_SWM.png, 1115999, 1203424, 5604180, 4084855 
+
+E_06_image.png success  
+E_06_image.png, 7066626, 651832, 3835754, 3835754 
+
+E_yday_image.png success  
+E_yday_image.png, 1070948, 919996, 3835754, 3545806 
+
+cropped_6_06QPF.png success  
+cropped_6_06QPF.png, 1220392, 1652148, 2314523, 3337219 
+
+cropped_6_12QPF.png success  
+cropped_6_12QPF.png, 3661828, 1641360, 2329488, 3358797 
+
+cropped_6_18QPF.png success  
+cropped_6_18QPF.png, 6100074, 1637706, 2326376, 3354310 
+
+cropped_6_24QPF.png success  
+cropped_6_24QPF.png, 8534802, 1611349, 2354756, 3395229 
+
+簡報儲存成功
+採用昨日簡報
+round_Satellite.png success  
+round_Satellite.png, 7016579, 1203425, 4056961, 4084854 
+
+round_SWM.png success  
+round_SWM.png, 1115999, 1203424, 5604180, 4084855 
+
+E_06_image.png success  
+E_06_image.png, 7066626, 651832, 3835754, 3835754 
+
+E_yday_image.png success  
+E_yday_image.png, 1070948, 919996, 3835754, 3545806 
+
+cropped_6_06QPF.png success  
+cropped_6_06QPF.png, 1220392, 1652148, 2314523, 3337219 
+
+cropped_6_12QPF.png success  
+cropped_6_12QPF.png, 3661828, 1641360, 2329488, 3358797 
+
+cropped_6_18QPF.png success  
+cropped_6_18QPF.png, 6100074, 1637706, 2326376, 3354310 
+
+cropped_6_24QPF.png success  
+cropped_6_24QPF.png, 8534802, 1611349, 2354756, 3395229 
+
+簡報儲存成功
+RainMap has not been update cumulate rainfull for 21, using previous hours data
+採用今日簡報
+round_Satellite.png success  
+round_Satellite.png, 7016579, 1203425, 4056961, 4084854 
+
+round_SWM.png success  
+round_SWM.png, 1115999, 1203424, 5604180, 4084855 
+
+E_06_image.png success  
+E_06_image.png, 7066626, 651832, 3835754, 3835754 
+
+E_yday_image.png success  
+E_yday_image.png, 1070948, 919996, 3835754, 3545806 
+
+cropped_6_06QPF.png success  
+cropped_6_06QPF.png, 1220392, 1652148, 2314523, 3337219 
+
+cropped_6_12QPF.png success  
+cropped_6_12QPF.png, 3661828, 1641360, 2329488, 3358797 
+
+cropped_6_18QPF.png success  
+cropped_6_18QPF.png, 6100074, 1637706, 2326376, 3354310 
+
+cropped_6_24QPF.png success  
+cropped_6_24QPF.png, 8534802, 1611349, 2354756, 3395229 
+
+簡報儲存成功
